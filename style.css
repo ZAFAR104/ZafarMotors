@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(185, 185, 185);
+}
+.sarloha {
+    text-align: center;
+    color: darkslategrey;
+}
+.button {
+    width: 150px;
+    height: 40px;
+    background-color: rgba(65, 74, 100, 0.986);
+    border-color: rgb(66, 66, 66);
+    color: white;
+}
+.slsAmg {
+    text-align: center;
+
+}
+.Gclass {
+    margin-top: 20px;
+    text-align: center;
+}
+.SlcClass {
+    margin-top: 20px;
+    text-align: center;
+}
+.fordF-150 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.G_63 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.SMA {
+    margin-top: 20px;
+    text-align: center;
+}
